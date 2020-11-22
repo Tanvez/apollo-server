@@ -3,10 +3,12 @@
   "description": "",
   "dependencies": {
     "apollo-server": "2.9.7",
+    "bcrypt": "5.0.0",
     "graphql": "14.5.8",
     "graphql-tag": "^2.10.1",
     "sequelize": "6.3.5",
     "sequelize-cli": "6.2.0",
+    "slugify": "1.4.6",
     "sqlite3": "5.0.0"
   },
   "license": "MIT",
